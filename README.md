@@ -1,2 +1,4 @@
 # Car-Sales
-You have been hired by SwiftAuto Traders, a chain of car dealerships, as a data scientist. Your first task is to analyze car sales and profits for each dealer. You need to create some visualizations and present them as a dashboard/report to your regional manager for better understanding on car sales and profits for each dealer.
+I have been hired (as part of a study simulation) by SwiftAuto Traders, a chain of car dealerships, as a Data Scientist.
+
+The goal is to analyze car sales and profits across different dealers to provide better insights for management.
